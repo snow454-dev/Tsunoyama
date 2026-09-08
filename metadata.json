@@ -1,0 +1,6 @@
+{
+  "name": "津野山畜産公社 業務改善・受発注在庫管理DX",
+  "description": "和牛約500頭を飼育する津野山畜産公社向けの受発注・在庫・外部加工業者連携・請求データ一元化システムおよび業務改革伴走プラットフォーム",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
