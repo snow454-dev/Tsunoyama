@@ -62,10 +62,10 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
           <div className="space-y-2 max-w-2xl">
             <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full bg-emerald-500/20 text-emerald-200 text-xs font-semibold border border-emerald-400/30">
               <Sparkles className="w-3.5 h-3.5 text-emerald-300" />
-              林氏提案：業務フロー整理・システム選定＆伴走支援プロトタイプ
+              業務フロー整理・システム選定＆伴走支援プロトタイプ
             </div>
             <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-white">
-              津野山畜産公社 営業事務・受発注一元管理ポータル
+              畜産公社 営業事務・受発注一元管理ポータル
             </h2>
             <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed">
               和牛500頭の肥育から食肉販売まで。営業1〜2名＋事務1名の体制で、Excelとマネーフォワードに分散していた
