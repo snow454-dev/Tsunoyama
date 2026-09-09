@@ -68,11 +68,11 @@ export const Navbar: React.FC<NavbarProps> = ({
           <div className="flex items-center gap-2 sm:gap-3">
             <span className="inline-flex items-center gap-1.5 font-medium truncate">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse shrink-0"></span>
-              高知・津野山 約500頭飼育（土佐赤牛 / 黒牛）
+              約500頭飼育（赤牛 / 黒牛）
             </span>
             <span className="hidden md:inline text-slate-300">|</span>
             <span className="hidden md:inline text-emerald-200">
-              食肉販売2年目 DX業務改革・伴走支援モックアップ（林氏提案版）
+              食肉販売2年目 DX業務改革・伴走支援モックアップ（
             </span>
           </div>
           <div className="flex items-center gap-1.5 sm:gap-2 text-[10px] sm:text-[11px]">
@@ -103,7 +103,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="min-w-0">
               <div className="flex items-center gap-1.5 sm:gap-2">
                 <h1 className="text-base sm:text-lg font-bold text-slate-900 tracking-tight truncate">
-                  津野山畜産公社
+                  〇〇畜産公社
                 </h1>
                 <span className="text-[9px] sm:text-[10px] font-semibold bg-emerald-100 text-emerald-800 px-1.5 py-0.5 rounded shrink-0">
                   食肉販売DX
